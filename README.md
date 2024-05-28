@@ -22,7 +22,7 @@ Sipinter API adalah API RESTful untuk mengelola layanan dan otentikasi pengguna.
 
 ## Persiapan
 
-Instruksi berikut akan membantu Anda menyiapkan dan menjalankan proyek ini di mesin lokal Anda.
+Instruksi berikut akan membantu cara menyiapkan dan menjalankan proyek ini di mesin lokal.
 
 ### Prasyarat
 
