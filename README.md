@@ -4,12 +4,12 @@ Sipinter API adalah API RESTful untuk mengelola layanan dan otentikasi pengguna.
 
 ## Powered By
 
-<div style="justify-content: left; gap: 20px;">
+<div style="display: flex; justify-content: left; gap: 20px;">
     <a href="https://go.dev">
-        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" style="max-width: 100px;">
+        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang Logo" width = "100">
     </a>
     <a href="https://www.mongodb.com">
-        <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="MongoDB Logo" style="max-width: 100px;">
+        <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="MongoDB Logo" width = "100">
     </a>
 </div>
 
